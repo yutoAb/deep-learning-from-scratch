@@ -14,4 +14,4 @@ plt.xlabel("x") # x軸のラベル
 plt.ylabel("y") # y軸のラベル
 plt.title('sin & cos')
 plt.legend()
-plt.show()
+plt.savefig('figure01.jpg')
